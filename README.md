@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
+GitProfileSearch is a web app developed using Angular 2. This app can be used to search profiles of GitHub users.
+Results are shown in real time as we type a name in the search box.
+
+Live demo is available <a target="_blank" href="https://gitprofilesearch.firebaseapp.com/">here.</a>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
