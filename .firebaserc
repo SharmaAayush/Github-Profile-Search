@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "gitprofilesearch",
+    "GirProfileSearch": "gitprofilesearch",
+    "GitProfileSearch": "gitprofilesearch"
+  }
+}
