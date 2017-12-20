@@ -5,8 +5,8 @@ import 'rxjs/add/operator/map';
 @Injectable()
 export class GithubService{
     private username:string;
-    private client_id = '<Your GitHub app\'s Client ID>';
-    private client_secret = '<Your GitHub app\'s Client Secret>';
+    private client_id = '<Your GitHub app Client ID>';
+    private client_secret = '<Your GitHub app Client Secret>';
 
     constructor(private _http: Http){
         console.log('Github Service Ready...');
